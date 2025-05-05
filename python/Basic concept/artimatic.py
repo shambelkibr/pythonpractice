@@ -1,0 +1,14 @@
+x=2
+y=7
+sum=x+y
+substraction= x-y
+multiplicton=x*y
+division=x/y
+floordivision=x//y
+modolal=x%y
+print(f"the sum of the two number {x} and {y} is = {sum}")
+print(f"the differenceof of the two number {x} and {y} is = {substraction}")
+print(f"the prodct of the two number {x} and {y} is = {multiplicton}")
+print(f"the division of the two number {x} and {y} is = {division}")
+print(f"the floor division  of the two number {x} and {y} is = {floordivision}")
+print(f"themodule of the two number {x} and {y} is = {modolal}")

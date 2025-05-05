@@ -1,0 +1,10 @@
+from car import car
+car_one=car("mustang",2024,"red" ,False)
+car2=car("corvette",2025,"green",True)
+car3=car("charger",2026,"yellow",True)
+print(car_one.model)
+print(car_one.year)
+print(car_one.color)
+print( car_one.for_sale)
+car2.stop()
+car3.drive()
